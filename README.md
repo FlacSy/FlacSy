@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm here to share my experience in Python developm
 Here you will find my projects related to Python, aiogram and disnake:
 
 1. [BDW](https://github.com/FlacSy/bdw) - This library is needed to check text for obscene words in different languages. To check for plagiarism and keywords.
-2. [CJM Bot](https://github.com/FlacSy/CJM-Bot)CJM Bot is a Discord bot written using the disnake library.
+2. [CJM Bot](https://github.com/FlacSy/CJM-Bot) - CJM Bot is a Discord bot written using the disnake library.
 
 ## Connection
 
