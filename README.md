@@ -12,10 +12,12 @@
 
 Здесь вы найдете мои проекты, связанные с Python, aiogram и disnake:
 
-1. [BadWords](https://github.com/FlacSy/badwords)—библиотека для для модерации контента к как текста так и фото. Имеет возможность проверки на плагиат.
+1. [Bad Words](https://github.com/FlacSy/badwords)—библиотека для модерации контента как текста так и фото. Имеет возможность проверки на плагиат.
 2. [CJM Bot](https://github.com/FlacSy/CJM-Bot)—Discord-бот, написанный с использованием библиотеки disnake.
 3. [Crypto Bot](https://github.com/FlacSy/CryptoBot)— Telegram-бот который использует aiogram  для оповещения пользователя о изменении цены в криптопаре на Binance. 
 4. [Posts Steler](https://github.com/FlacSy/)—Python скрипт написан на telethon для "заимствования" постов с telegram каналов.
+5. [Link Blocker](https://github.com/FlacSy/link_block)— Telegram-бот который использует aiogram для блокировки нежелательных ссылок в текстовых сообщениях.
+
 
 ## Связь
 
