@@ -1,29 +1,31 @@
-# Hi, I'm FlacSy 👋
+# Привет, я FlacSy 👋
 
-Welcome to my GitHub profile! I'm here to share my experience in Python development as well as my projects related to aiogram and disnake frameworks. I'm currently learning how to develop libraries.
+Добро пожаловать на мой профиль GitHub! Здесь я делюсь своим опытом в разработке на Python, а также моими проектами, связанными с фреймворками aiogram и disnake. В настоящее время я изучаю создание библиотек.
 
-## Experience
+## Опыт
 
-- 🐍 I am an ordinary Python developer.
-- 💬 I actively use disnake to create bots in Discord.
-- 🐦 I am also familiar with aiogram, a framework for creating bots in Telegram.
+- 🐍 Я обычный разработчик на Python.
+- 💬 Активно использую disnake для создания ботов в Discord.
+- 🐦 Также знаком с aiogram, фреймворком для создания ботов в Telegram.
 
-## Projects
+## Проекты
 
-Here you will find my projects related to Python, aiogram and disnake:
+Здесь вы найдете мои проекты, связанные с Python, aiogram и disnake:
 
-1. [BDW](https://github.com/FlacSy/bdw) - This library is needed to check text for obscene words in different languages. To check for plagiarism and keywords.
-2. [CJM Bot](https://github.com/FlacSy/CJM-Bot) - CJM Bot is a Discord bot written using the disnake library.
+1. [BadWords](https://github.com/FlacSy/badwords)—библиотека для для модерации контента к как текста так и фото. Имеет возможность проверки на плагиат.
+2. [CJM Bot](https://github.com/FlacSy/CJM-Bot)—Discord-бот, написанный с использованием библиотеки disnake.
+3. [Crypto Bot](https://github.com/FlacSy/CryptoBot)— Telegram-бот который использует aiogram  для оповещения пользователя о изменении цены в криптопаре на Binance. 
+4. [Posts Steler](https://github.com/FlacSy/)—Python скрипт написан на telethon для "заимствования" постов с telegram каналов.
 
-## Connection
+## Связь
 
-You can contact me through the following channels:
+Вы можете связаться со мной через следующие каналы:
 
-- 📧 Email: flacsy.x@gmail.com
+- 📧 Электронная почта: flacsy.x@gmail.com
 - 💼 Discord: flacsy
 
-Feel free to contact me if you have questions or suggestions for cooperation!
+Не стесняйтесь обращаться, если у вас есть вопросы или предложения по сотрудничеству!
 
-## Gratitude
+## Благодарность
 
-Thanks for visiting my GitHub profile. I hope you find useful information and projects here. If you have any suggestions or comments, don't hesitate to contact.
+Спасибо за посещение моего профиля GitHub. Надеюсь, вы найдете здесь полезную информацию и проекты. Если у вас есть предложения или комментарии, не стесняйтесь связаться.
