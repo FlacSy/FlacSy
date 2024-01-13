@@ -16,8 +16,8 @@
 2. [CJM Bot](https://github.com/FlacSy/CJM-Bot)—Discord-бот, написанный с использованием библиотеки disnake.
 3. [Crypto Bot](https://github.com/FlacSy/CryptoBot)— Telegram-бот который использует aiogram  для оповещения пользователя о изменении цены в криптопаре на Binance. 
 4. [Posts Steler](https://github.com/FlacSy/)—Python скрипт написан на telethon для "заимствования" постов с telegram каналов.
-5. [Link Blocker](https://github.com/FlacSy/link_block)— Telegram-бот который использует aiogram для блокировки нежелательных ссылок в текстовых сообщениях.
-
+5. [Link Blocker](https://github.com/FlacSy/LinkBlocker)— Telegram-бот который использует aiogram для блокировки нежелательных ссылок в текстовых сообщениях.
+6. [Join Requests Bot](https://github.com/FlacSy/JoinRequestsBot)— Telegram-бот для обработки запросов на присоединение к чату.
 
 ## Связь
 
