@@ -5,6 +5,15 @@
 ## Род деятельности
 Моя сфера деятельности частично связана с программированием. Я изучаю искусство парсинга данных и создание ботов для платформ Discord и Telegram. Несмотря на то, что программирование для меня – всего лишь хобби, я стараюсь делиться своим опытом и проектами.
 
+# Стек технологий
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![aiogram](https://img.shields.io/badge/aiogram-0082C8?style=for-the-badge&logo=telegram&logoColor=white)
+![telethon](https://img.shields.io/badge/telethon-0082C8?style=for-the-badge&logo=telegram&logoColor=white)
+
+![disnake](https://img.shields.io/badge/disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+
 ## Проекты
 
 Здесь вы найдете мои проекты, связанные с Python, aiogram и disnake:
