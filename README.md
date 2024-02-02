@@ -18,27 +18,31 @@
 
 Здесь вы найдете мои проекты, связанные с Python, aiogram и disnake:
 
-1. [Bad Words](https://github.com/FlacSy/badwords) — библиотека для модерации контента как текста так и фото. Имеет возможность проверки на плагиат.  
+1. [YLoader](https://github.com/FlacSy/YLoader) — Telegram-бот для скачивания контента с разных прощадок таких: YouTube, YouTube Shorts, TikTok, Spotify, SoundCloud 
+   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/YLoader)
+   ![Bad Words](https://img.shields.io/github/stars/FlacSy/YLoader?style=social)
+
+2. [Bad Words](https://github.com/FlacSy/badwords) — библиотека для модерации контента как текста так и фото. Имеет возможность проверки на плагиат.  
    ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/badwords)
    ![Bad Words](https://img.shields.io/github/stars/FlacSy/badwords?style=social)
 
-2. [CJM Bot](https://github.com/FlacSy/CJM-Bot) — Discord-бот, написанный с использованием библиотеки disnake.  
+3. [CJM Bot](https://github.com/FlacSy/CJM-Bot) — Discord-бот, написанный с использованием библиотеки disnake.  
    ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/CJM-Bot)
    ![CJM Bot](https://img.shields.io/github/stars/FlacSy/CJM-Bot?style=social)
 
-3. [Crypto Bot](https://github.com/FlacSy/CryptoBot) — Telegram-бот который использует aiogram для оповещения пользователя о изменении цены в криптопаре на Binance.  
+4. [Crypto Bot](https://github.com/FlacSy/CryptoBot) — Telegram-бот который использует aiogram для оповещения пользователя о изменении цены в криптопаре на Binance.  
    ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/CryptoBot)
    ![Crypto Bot](https://img.shields.io/github/stars/FlacSy/CryptoBot?style=social)
 
-4. [Posts Stealer](https://github.com/FlacSy/PostsStealer) — Python скрипт написан на telethon для "заимствования" постов с telegram каналов.  
+5. [Posts Stealer](https://github.com/FlacSy/PostsStealer) — Python скрипт написан на telethon для "заимствования" постов с telegram каналов.  
    ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/PostsStealer)
    ![Posts Steler](https://img.shields.io/github/stars/FlacSy/PostsStealer?style=social)
 
-5. [Link Blocker](https://github.com/FlacSy/LinkBlocker) — Telegram-бот который использует aiogram для блокировки нежелательных ссылок в текстовых сообщениях.  
+6. [Link Blocker](https://github.com/FlacSy/LinkBlocker) — Telegram-бот который использует aiogram для блокировки нежелательных ссылок в текстовых сообщениях.  
    ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/LinkBlocker)
    ![Link Blocker](https://img.shields.io/github/stars/FlacSy/LinkBlocker?style=social)
 
-6. [Join Requests Bot](https://github.com/FlacSy/JoinRequestsBot) — Telegram-бот для обработки запросов на присоединение к чату.  
+7. [Join Requests Bot](https://github.com/FlacSy/JoinRequestsBot) — Telegram-бот для обработки запросов на присоединение к чату.  
    ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/JoinRequestsBot)
    ![Join Requests Bot](https://img.shields.io/github/stars/FlacSy/JoinRequestsBot?style=social)
 
