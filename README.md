@@ -18,9 +18,9 @@
 
 Здесь вы найдете мои проекты, связанные с Python, aiogram и disnake:
 
-1. [YLoader](https://github.com/FlacSy/YLoader) — Telegram-бот для скачивания контента с разных прощадок таких: YouTube, YouTube Shorts, TikTok, Spotify, SoundCloud 
-   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/YLoader)
-   ![Bad Words](https://img.shields.io/github/stars/FlacSy/YLoader?style=social)
+1. [YLoader](https://github.com/FlacSy/YLoaderBot) — Telegram-бот для скачивания контента с разных прощадок таких: YouTube, YouTube Shorts, TikTok, Spotify, SoundCloud 
+   ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/YLoaderBot)
+   ![Bad Words](https://img.shields.io/github/stars/FlacSy/YLoaderBot?style=social)
 
 2. [Bad Words](https://github.com/FlacSy/badwords) — библиотека для модерации контента как текста так и фото. Имеет возможность проверки на плагиат.  
    ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/badwords)
