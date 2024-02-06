@@ -7,11 +7,20 @@ Welcome to my GitHub playground! I'm Andrey, a Python enthusiast from Ukraine, a
 ## About Me
 I'm deeply immersed in the world of programming, with a particular passion for data parsing and crafting bots for Discord and Telegram. While coding is my hobby, I'm committed to sharing my knowledge and showcasing the projects I'm proud of.
 
+
 ## Tech Stack
 ![telethon](https://img.shields.io/badge/telethon-0082C8?style=for-the-badge&logo=telegram&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-0082C8?style=for-the-badge&logo=telegram&logoColor=white)
 ![disnake](https://img.shields.io/badge/disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Asyncio](https://img.shields.io/badge/Asyncio-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ## Projects Showcase
 
@@ -44,6 +53,10 @@ Dive into my Python, aiogram, and disnake projects:
 7. [Join Requests Bot](https://github.com/FlacSy/JoinRequestsBot) — Elevate your Telegram group experience with this bot handling join requests.
    - **Skills:** Python, aiogram
    - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/JoinRequestsBot) ![Stars](https://img.shields.io/github/stars/FlacSy/JoinRequestsBot?style=social)
+
+## My activity
+![ ](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FlacSy&theme=aura_dark)
+![ ](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FlacSy&theme=aura_dark&utcOffset=8)
 
 ## Let's Connect
 
