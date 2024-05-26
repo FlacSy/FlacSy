@@ -23,37 +23,6 @@ I'm deeply immersed in the world of programming, with a particular passion for d
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </div>
 
-## Projects Showcase
-
-Dive into my Python, aiogram, and disnake projects:
-
-1. [YLoader](https://github.com/FlacSy/YLoaderBot) — Your go-to Telegram bot for snagging content from various platforms: YouTube, YouTube Shorts, TikTok, Spotify, SoundCloud.
-   - **Skills:** Python, aiogram, data parsing
-   - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/YLoaderBot) ![Stars](https://img.shields.io/github/stars/FlacSy/YLoaderBot?style=social)
-
-2. [Bad Words](https://github.com/FlacSy/badwords) — Unleash the power of content moderation with this library for text and image checks, including plagiarism detection.
-   - **Skills:** Python, content moderation
-   - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/badwords) ![Stars](https://img.shields.io/github/stars/FlacSy/badwords?style=social)
-
-3. [CJM Bot](https://github.com/FlacSy/CJM-Bot) — Discord bot masterfully crafted using the disnake library.
-   - **Skills:** Python, disnake
-   - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/CJM-Bot) ![Stars](https://img.shields.io/github/stars/FlacSy/CJM-Bot?style=social)
-
-4. [Crypto Bot](https://github.com/FlacSy/CryptoBot) — A Telegram bot powered by aiogram, delivering real-time cryptocurrency price updates from Binance.
-   - **Skills:** Python, aiogram, Binance API
-   - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/CryptoBot) ![Stars](https://img.shields.io/github/stars/FlacSy/CryptoBot?style=social)
-
-5. [Posts Stealer](https://github.com/FlacSy/PostsStealer) — Python script employing telethon to gracefully "borrow" posts from Telegram channels.
-   - **Skills:** Python, telethon
-   - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/PostsStealer) ![Stars](https://img.shields.io/github/stars/FlacSy/PostsStealer?style=social)
-
-6. [Link Blocker](https://github.com/FlacSy/LinkBlocker) — Your trusty Telegram bot with aiogram, designed to block unwarranted links in text messages.
-   - **Skills:** Python, aiogram
-   - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/LinkBlocker) ![Stars](https://img.shields.io/github/stars/FlacSy/LinkBlocker?style=social)
-
-7. [Join Requests Bot](https://github.com/FlacSy/JoinRequestsBot) — Elevate your Telegram group experience with this bot handling join requests.
-   - **Skills:** Python, aiogram
-   - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/FlacSy/JoinRequestsBot) ![Stars](https://img.shields.io/github/stars/FlacSy/JoinRequestsBot?style=social)
 
 ## My Activity
 <div align="center">
