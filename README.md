@@ -32,7 +32,7 @@ I'm deeply immersed in the world of programming, with a particular passion for d
   <img src="https://profile-counter.glitch.me/FlacSy/count.svg?"  />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FlacSy&column=5&margin-w=15&margin-h=15&theme=juicyfresh"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=FlacSy&column=3&margin-w=15&margin-h=15&theme=juicyfresh"  />
 </div>
 
 
