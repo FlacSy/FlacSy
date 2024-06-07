@@ -31,6 +31,9 @@ I'm deeply immersed in the world of programming, with a particular passion for d
 <div align="center">
   <img src="https://profile-counter.glitch.me/FlacSy/count.svg?"  />
 </div>
+<div align="center">
+   <img scr="https://github-profile-trophy.vercel.app/?username=FlacSy"/>
+</div>
 
 ## Let's Connect
 
