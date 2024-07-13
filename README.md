@@ -1,13 +1,9 @@
-# Hello, I'm Andrey 👋
+# Здравствуйте, меня зовут Андрей 👋
 
-## 🌐 Passionate Python Developer from Ukraine
+## Обо мне
+Я специализируюсь на разработке ботов для Telegram и парсинге данных. В своей работе я стремлюсь к высоким стандартам и открыт для новых вызовов и возможностей.
 
-Welcome to my GitHub playground! I'm Andrey, a Python enthusiast from Ukraine, and this is where I bring my coding adventures to life.
-
-## About Me
-I'm deeply immersed in the world of programming, with a particular passion for data parsing and crafting bots for Discord and Telegram. While coding is my hobby, I'm committed to sharing my knowledge and showcasing the projects I'm proud of.
-
-## Tech Stack
+## Технический стек
 <div align="center">
 
    ![telethon](https://img.shields.io/badge/telethon-0082C8?style=for-the-badge&logo=telegram&logoColor=white)
@@ -23,8 +19,34 @@ I'm deeply immersed in the world of programming, with a particular passion for d
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </div>
 
+## Опыт работы
+**Фрилансер** | Сентябрь 2022 – Настоящее время
+- Разработал несколько ботов для Telegram, используя Telethon и Aiogram.
+- Создал скрипты для автоматизации задач по парсингу данных и их оброботке.
+- Работал с базами данных (SQLite, MySQL, PostgreSQL) для обеспечения хранения и управления данными.
 
-## My Activity
+## Проекты
+
+1. **YLoaderBot**
+   - **Описание**: Бот для загрузки контента с онлайн-платформ, таких как YouTube, TikTok, Instagram Reels и музыкальных платформ, таких как Spotify, SoundCloud и Apple Music. Разработан на Python с использованием различных библиотек.
+   - **Язык програмирования и технологии**: Python, Telegram API, web scraping.
+2. **PostStealer**
+   - **Описание**: Скрипт на Python, использующий библиотеку Telethon для автоматической пересылки сообщений из одного телеграм-канала в другой. Предоставляет гибкие настройки для отправки как текстовых сообщений, так и медиа-контента.
+   - **Язык програмирования и технологии**: Python, Telethon.
+
+3. **dsplayer**
+   - **Описание**: Библиотека для Discord ботов, позволяющая подключаться к голосовым каналам, воспроизводить треки из различных источников и управлять очередью воспроизведения. Имеет плагины для расширения поддерживаемых платформ.
+   - **Язык програмирования и технологии**: Python, Discord API, web scraping.
+
+4. **FLK**
+   - **Описание**: Библиотека для работы с файлами в формате FL (File Language), упрощающая работу со структурированными данными и их парсингом.
+   Язык программирования и технологии: Python.
+
+5. **HabrParser**
+   - **Описание**: Библиотека для скрапинга и получения статей, комментариев и другого контента с веб-сайта Habr. Предоставляет подробную документацию и инструменты для использования и функциональности.
+  - **Язык програмирования и технологии**: Python, web scraping.
+
+## Моя Активность
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FlacSy&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
@@ -35,14 +57,8 @@ I'm deeply immersed in the world of programming, with a particular passion for d
   <img src="https://github-profile-trophy.vercel.app/?username=FlacSy&column=3&margin-w=15&margin-h=15&theme=juicyfresh"  />
 </div>
 
-
-## Let's Connect
-
-Feel free to drop me a line through these channels:
-
+## Свяжитесь со мной
 - [🖇️ Telegram](https://t.me/flacsy)
 - [📧 Email](flacsy.x@gmail.com)
 
-Don't hesitate to reach out if you have questions or collaboration proposals!
-
-> I hope you discover valuable insights and exciting projects here. Your suggestions and comments are always welcome!
+> Надеюсь, вы найдете здесь интересные проекты и полезную информацию. Всегда рад вашим предложениям и комментариям!
