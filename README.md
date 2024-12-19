@@ -1,7 +1,7 @@
 # Здравствуйте, меня зовут Андрей 👋
 
 ## Обо мне
-Я специализируюсь на разработке ботов для Telegram и парсинге данных. В своей работе я стремлюсь к высоким стандартам и открыт для новых вызовов и возможностей.
+Я специализируюсь на backend разработке и парсинге данных. В своей работе я стремлюсь к высоким стандартам и открыт для новых вызовов и возможностей.
 
 ## Технический стек
 <div align="center">
@@ -20,11 +20,13 @@
 </div>
 
 ## Моя Активность
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlacSy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FlacSy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-   
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=FlacSy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FlacSy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"/>
 </div>
+
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/FlacSy/count.svg?"  />
 </div>
