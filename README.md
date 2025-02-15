@@ -1,41 +1,68 @@
-# Здравствуйте, меня зовут Андрей 👋
+# Привет, я Андрей 👋
 
-## Обо мне
-Я специализируюсь на backend разработке и парсинге данных. В своей работе я стремлюсь к высоким стандартам и открыт для новых вызовов и возможностей.
+### 🖥 Backend Developer | Python & Rust Enthusiast  
 
-## Технический стек
+Я занимаюсь разработкой высоконагруженных backend-систем, парсингом данных и автоматизацией процессов.  
+Люблю писать чистый и эффективный код, а также разрабатывать инструменты, которые облегчают жизнь разработчикам.
+
+---
+
+## 🚀 **Мои проекты**  
+
+### [OpenCodeGen](https://github.com/FlacSy/OpenCodeGen)  
+📌 **OpenCodeGen — это инструмент для автоматической генерации классов на различных языках программирования на основе спецификаций OpenAPI в формате JSON.** 
+🛠 **Stack:** Python - FastAPI, Rust - PyO3, JavaSctipt - Vue.js
+
+### [UrlShorter](https://github.com/FlacSy/UrlShorter)  
+📌 **UrlShorter — это простой сервис для сокращения URL-адресов с возможностью установки времени жизни (TTL) для каждой ссылки.**  
+🛠 **Stack:** Python - FastAPI, JavaSctipt, SQLAlchemy
+
+### [Lockana](https://github.com/FlacSy/Lockana)  
+📌 **Lockana — это безопасное решение для хранения и управления секретными данными.**  
+🛠 **Stack:** Python - FastAPI, AES, SQLAlchemy
+
+### [Bismark](https://github.com/FlacSy/Bismark)  
+📌 **Bismark — это удобный и стильный веб-сервис для скачивания видео с YouTube.**  
+🛠 **Stack:** Python - Flask, YT-dlp, JavaScript
+
+---
+
+## ⚙ **Технологический стек**  
 <div align="center">
 
-   ![telethon](https://img.shields.io/badge/telethon-0082C8?style=for-the-badge&logo=telegram&logoColor=white)
-   ![aiogram](https://img.shields.io/badge/aiogram-0082C8?style=for-the-badge&logo=telegram&logoColor=white)
-   ![disnake](https://img.shields.io/badge/disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-   ![Asyncio](https://img.shields.io/badge/Asyncio-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-   ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🐍 **Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Asyncio](https://img.shields.io/badge/Asyncio-4B8BBE?style=for-the-badge&logo=python&logoColor=white)  
+
+### 🗄 **Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+
+### ⚙ **DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
 </div>
 
-## Моя Активность
+---
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlacSy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FlacSy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"/>
-</div>
-
-
+## 📊 **Моя активность**  
 <div align="center">
-  <img src="https://profile-counter.glitch.me/FlacSy/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FlacSy&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlacSy&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
+
+---
+
+## 📬 **Связь со мной**  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FlacSy&column=3&margin-w=15&margin-h=15&theme=juicyfresh"  />
+  <a href="https://t.me/flacsy">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:flacsy.x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
-
-## Свяжитесь со мной
-- [🖇️ Telegram](https://t.me/flacsy)
-- [📧 Email](flacsy.x@gmail.com)
-
-> Надеюсь, вы найдете здесь интересные проекты и полезную информацию. Всегда рад вашим предложениям и комментариям!
