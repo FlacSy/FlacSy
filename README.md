@@ -32,7 +32,7 @@
 ---
 
 ## ⚙ **Технологический стек**  
-<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="display: flex;">
 
 
 ### 🐍 **Backend**  
