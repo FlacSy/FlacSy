@@ -11,24 +11,29 @@
 
 ### [OpenCodeGen](https://github.com/FlacSy/OpenCodeGen)  
 📌 **OpenCodeGen — это инструмент для автоматической генерации классов на различных языках программирования на основе спецификаций OpenAPI в формате JSON.** 
+
 🛠 **Stack:** Python - FastAPI, Rust - PyO3, JavaSctipt - Vue.js
 
 ### [UrlShorter](https://github.com/FlacSy/UrlShorter)  
 📌 **UrlShorter — это простой сервис для сокращения URL-адресов с возможностью установки времени жизни (TTL) для каждой ссылки.**  
+
 🛠 **Stack:** Python - FastAPI, JavaSctipt, SQLAlchemy
 
 ### [Lockana](https://github.com/FlacSy/Lockana)  
 📌 **Lockana — это безопасное решение для хранения и управления секретными данными.**  
+
 🛠 **Stack:** Python - FastAPI, AES, SQLAlchemy
 
 ### [Bismark](https://github.com/FlacSy/Bismark)  
 📌 **Bismark — это удобный и стильный веб-сервис для скачивания видео с YouTube.**  
+
 🛠 **Stack:** Python - Flask, YT-dlp, JavaScript
 
 ---
 
 ## ⚙ **Технологический стек**  
-<div align="center">
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+
 
 ### 🐍 **Backend**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -59,7 +64,7 @@
 
 ## 📬 **Связь со мной**  
 <div align="center">
-  <a href="https://t.me/flacsy">
+  <a href="https://t.me/FlacSSy">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:flacsy.x@gmail.com">
