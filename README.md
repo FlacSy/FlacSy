@@ -57,7 +57,7 @@
 ## 📊 **Моя активность**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FlacSy&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlacSy&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app?username=FlacSy&column=5&row=2&margin-w=9&margin-h=9&no-bg=false&no-frame=false&order=4&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
