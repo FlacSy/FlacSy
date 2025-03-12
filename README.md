@@ -55,10 +55,9 @@
 ---
 
 ## 📊 **Моя активность**  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlacSy&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="50%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=FlacSy&rank=B,A,AA,AAA,S,SS,SSS" alt="GitHub Streak" width="100%" />
-</div>
+![FlacSy's Stats](https://github-readme-stats.vercel.app/api?username=FlacSy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![FlacSy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FlacSy&theme=vue-dark&hide_border=true)
+![FlacSy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlacSy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
