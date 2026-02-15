@@ -24,9 +24,15 @@
 
 ## 🏗 Featured Projects & Architecture
 
-I don’t just implement features — I design systems that scale and last.
+I don't just implement features — I design systems that scale and last.
 
-### 🌟 [lynx-logger](https://github.com/FlacSy/lynx-logger)
+### 🚀 [SaaS Skeleton](https://github.com/FlacSy/SaaS-Skeleton)
+*Production-ready SaaS backend на FastAPI.*
+- **Key Focus:** Auth (JWT + refresh), multi-tenant isolation, billing (Stripe/Mock), admin CRUD.
+- **Tech:** Python 3.12, FastAPI, SQLAlchemy 2 (async), PostgreSQL, Redis, Docker.
+- **Observability:** Prometheus metrics, health checks, lynx-logger.
+
+### 🌟 [Lynx Logger](https://github.com/FlacSy/lynx-logger)
 *A production-ready structured logging library built for complex environments.*
 - **Key Focus:** Context tracing in multi-tenant APIs and background services.
 - **Tech:** Python, Structlog, Isomorphic logging.
