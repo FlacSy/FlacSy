@@ -26,7 +26,7 @@
 
 I don't just implement features — I design systems that scale and last.
 
-### 🚀 [SaaS Skeleton](https://github.com/FlacSy/SaaS-Skeleton)  **[Demo](https://saas-skeleton.flacsy.dev/)**
+### 🚀 [SaaS Skeleton](https://github.com/FlacSy/SaaS-Skeleton) | **[Demo](https://saas-skeleton.flacsy.dev/)**
 *Production-ready SaaS backend на FastAPI.*
 - **Key Focus:** Auth (JWT + refresh), multi-tenant isolation, billing (Stripe/Mock), admin CRUD.
 - **Tech:** Python 3.12, FastAPI, SQLAlchemy 2 (async), PostgreSQL, Redis, Docker.
