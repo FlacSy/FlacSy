@@ -41,6 +41,11 @@ I don't just implement features — I design systems that scale and last.
 *Advanced profanity filter with evasion detection.*
 - **Key Focus:** Homoglyph detection, similarity matching (fuzzy logic), and multi-language support.
 
+### 📄 [DocumentPlaceholder](https://github.com/FlacSy/DocumentPlaceholder)
+*Fill Word templates using YAML configs with a powerful expression language and SQLite integration.*
+- **Key Focus:** Custom expression language (tokenizer + recursive-descent parser + AST evaluator), 59 built-in functions, PDF export, GUI with syntax highlighting.
+- **Tech:** Python 3.10+, python-docx, PyYAML, SQLite, CustomTkinter.
+
 ### 📐 [Architecture Case Studies](https://github.com/FlacSy/case-studies)
 *Deep dives into real-world technical decisions:*
 - **Multi-tenant Identity:** User → Person + SubUser decomposition for SaaS.
