@@ -61,7 +61,7 @@ Profanity filter with evasion detection.
 
 ### 📄 DocumentPlaceholder
 https://github.com/FlacSy/DocumentPlaceholder
-
+https://documentplaceholder.flacsy.dev/
 Tool for filling Word templates using YAML configs.
 
 - custom expression language (parser + AST)
