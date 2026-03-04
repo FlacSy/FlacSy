@@ -53,6 +53,7 @@ Structured logging library for async and distributed Python applications.
 https://github.com/FlacSy/BadWords
 
 https://badwords.flacsy.dev/ - docs
+
 Profanity filter with evasion detection.
 
 - homoglyph handling
@@ -63,6 +64,7 @@ Profanity filter with evasion detection.
 
 ### 📄 DocumentPlaceholder
 https://github.com/FlacSy/DocumentPlaceholder
+
 https://documentplaceholder.flacsy.dev/ - demo
 
 Tool for filling Word templates using YAML configs.
