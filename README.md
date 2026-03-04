@@ -25,6 +25,7 @@ I mostly work on projects where **architecture, correctness, and long-term maint
 
 ### 🚀 SaaS Skeleton
 https://github.com/FlacSy/SaaS-Skeleton  
+
 https://saas-skeleton.flacsy.dev/ - demo
 
 Production-ready backend template for SaaS products.
@@ -50,6 +51,7 @@ Structured logging library for async and distributed Python applications.
 
 ### 🛡 BadWords
 https://github.com/FlacSy/BadWords
+
 https://badwords.flacsy.dev/ - docs
 Profanity filter with evasion detection.
 
