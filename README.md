@@ -1,6 +1,6 @@
 # Hi, I'm Andrew 👋
 
-Backend Engineer focused on **Python-based backend systems** and **SaaS architectures**.  
+Backend Engineer focused on Python-based backend systems.  
 I mostly work on projects where **architecture, correctness, and long-term maintainability** matter.
 
 ---
