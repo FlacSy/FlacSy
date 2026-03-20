@@ -23,6 +23,18 @@ I mostly work on projects where **architecture, correctness, and long-term maint
 
 ## Selected Projects
 
+### 🏛️ GeM BidPlus Automation
+https://github.com/FlacSy/GeM-BidPlus-Automation
+
+End-to-end bid participation automation for India's Government e-Marketplace.
+
+- captcha OCR + OTP auto-fetch from email
+- smart flow detection (resume from any step)
+- anti-detection via Patchright with human-like behavior
+- document upload, price entry, bid verification
+
+---
+
 ### 🚀 SaaS Skeleton
 https://github.com/FlacSy/SaaS-Skeleton  
 
