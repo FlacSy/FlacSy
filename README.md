@@ -1,105 +1,37 @@
-# Hi, I'm Andrew 👋
+# Andrew
 
-Backend Engineer focused on Python-based backend systems.  
-I mostly work on projects where **architecture, correctness, and long-term maintainability** matter.
+[![Website](https://img.shields.io/badge/flacsy.dev-000?style=flat-square&logo=firefox&logoColor=white)](https://flacsy.dev)
+[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white)](https://t.me/FlacSSy)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:flacsy.x@gmail.com)
 
----
+Backend engineer. I build Python backends and all the boring infrastructure
+around them: APIs, workers, integrations, automation. Most of my code runs
+unattended, so I mainly care about what happens when something breaks.
 
-## Tech Stack
+Freelance, based in Poland. Open to backend & automation work.
 
-**Core**
-- Python (async, FastAPI)
-- PostgreSQL
-- Redis
-- Docker
+**Stack:** Python (FastAPI, asyncio) · PostgreSQL · Redis · Docker · Rust where Python isn't enough
 
-**Additional**
-- Rust (performance-critical parts)
-- Event-driven systems
-- REST APIs, background workers
-- Multi-tenant architectures
+## Projects
 
----
+**[SaaS Skeleton](https://github.com/FlacSy/SaaS-Skeleton)**  
+Production-ready SaaS backend template: JWT + refresh, tenant isolation, billing-ready architecture, admin CRUD, metrics, health checks, structured logging.
 
-## Selected Projects
+**[GeM BidPlus Automation](https://github.com/FlacSy/GeM-BidPlus-Automation)**  
+End-to-end bid participation automation for India's government e-marketplace. Captcha OCR, OTP auto-fetch from email, smart flow resume, human-like behavior via Patchright.
 
-### 🏛️ GeM BidPlus Automation
-https://github.com/FlacSy/GeM-BidPlus-Automation
+**[DocumentPlaceholder](https://github.com/FlacSy/DocumentPlaceholder)**  
+Fills Word templates from YAML. With its own tiny expression language (parser + AST), PDF export, and syntax-highlighting GUI.
 
-End-to-end bid participation automation for India's Government e-Marketplace.
+**[BadWords](https://github.com/FlacSy/BadWords)** · [docs](https://badwords.flacsy.dev/) [![PyPI](https://img.shields.io/pypi/v/badwords?style=flat-square&color=555&label=)](https://pypi.org/project/badwords/) [![Downloads](https://img.shields.io/pypi/dm/badwords?style=flat-square&color=555)](https://pypi.org/project/badwords/)  
+Profanity filter that survives homoglyphs, unicode tricks, and creative typos.
 
-- captcha OCR + OTP auto-fetch from email
-- smart flow detection (resume from any step)
-- anti-detection via Patchright with human-like behavior
-- document upload, price entry, bid verification
+**[Lynx Logger](https://github.com/FlacSy/lynx-logger)** [![PyPI](https://img.shields.io/pypi/v/lynx-logger?style=flat-square&color=555&label=)](https://pypi.org/project/lynx-logger/) [![Downloads](https://img.shields.io/pypi/dm/lynx-logger?style=flat-square&color=555)](https://pypi.org/project/lynx-logger/)  
+Structured logging for async services, with context propagation between workers.
 
----
-
-### 🚀 SaaS Skeleton
-https://github.com/FlacSy/SaaS-Skeleton  
-
-https://saas-skeleton.flacsy.dev/ - demo
-
-Production-ready backend template for SaaS products.
-
-- authentication (JWT + refresh)
-- multi-tenant isolation
-- billing-ready architecture
-- admin CRUD
-- metrics, health checks, structured logging
+**[Case studies](https://github.com/FlacSy/case-studies)**  
+Notes on problems I've had to solve: transactional outbox, websocket delivery guarantees, multi-tenant identity, secure file processing.
 
 ---
 
-### 🌟 Lynx Logger
-https://github.com/FlacSy/lynx-logger
-
-Structured logging library for async and distributed Python applications.
-
-- context propagation
-- multi-tenant awareness
-- API & background workers support
-
----
-
-### 🛡 BadWords
-https://github.com/FlacSy/BadWords
-
-https://badwords.flacsy.dev/ - docs
-
-Profanity filter with evasion detection.
-
-- homoglyph handling
-- fuzzy matching
-- unicode-aware
-
----
-
-### 📄 DocumentPlaceholder
-https://github.com/FlacSy/DocumentPlaceholder
-
-https://documentplaceholder.flacsy.dev/ - demo
-
-Tool for filling Word templates using YAML configs.
-
-- custom expression language (parser + AST)
-- PDF export
-- GUI with syntax highlighting
-
----
-
-### 📐 Architecture Case Studies
-https://github.com/FlacSy/case-studies
-
-Notes and experiments around real-world backend architecture.
-
-- multi-tenant identity models
-- transactional outbox
-- websocket delivery reliability
-- secure file processing pipelines
-
----
-
-## Contacts
-
-Telegram: https://t.me/FlacSSy  
-Email: flacsy.x@gmail.com
+When not coding: soldering stuff, breaking my Linux, listening to metal.
