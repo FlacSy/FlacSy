@@ -23,10 +23,13 @@ End-to-end bid participation automation for India's government e-marketplace. Ca
 **[DocumentPlaceholder](https://github.com/FlacSy/DocumentPlaceholder)**  
 Fills Word templates from YAML. With its own tiny expression language (parser + AST), PDF export, and syntax-highlighting GUI.
 
-**[BadWords](https://github.com/FlacSy/BadWords)** · [docs](https://badwords.flacsy.dev/) [![PyPI](https://img.shields.io/pypi/v/badwords?style=flat-square&color=555&label=)](https://pypi.org/project/badwords/) [![Downloads](https://img.shields.io/pypi/dm/badwords?style=flat-square&color=555)](https://pypi.org/project/badwords/)  
+**[BadWords](https://github.com/FlacSy/BadWords)** · [docs](https://badwords.flacsy.dev/) [![PyPI](https://img.shields.io/pypi/v/badwords?style=flat-square&color=555&label=)](https://pypi.org/project/badwords/)  
 Profanity filter that survives homoglyphs, unicode tricks, and creative typos.
 
-**[Lynx Logger](https://github.com/FlacSy/lynx-logger)** [![PyPI](https://img.shields.io/pypi/v/lynx-logger?style=flat-square&color=555&label=)](https://pypi.org/project/lynx-logger/) [![Downloads](https://img.shields.io/pypi/dm/lynx-logger?style=flat-square&color=555)](https://pypi.org/project/lynx-logger/)  
+**[Bendy](https://github.com/FlacSy/bendy)**  
+DDD scaffolding for Python backends: describe your domain, get models, repositories, use cases, DTOs and FastAPI routers.
+
+**[Lynx Logger](https://github.com/FlacSy/lynx-logger)** [![PyPI](https://img.shields.io/pypi/v/lynx-logger?style=flat-square&color=555&label=)](https://pypi.org/project/lynx-logger/)  
 Structured logging for async services, with context propagation between workers.
 
 **[Case studies](https://github.com/FlacSy/case-studies)**  
